@@ -25,5 +25,5 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Live code demo
+https://codesandbox.io/s/github/shruts2907/vuejs-practise
